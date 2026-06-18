@@ -1,2 +1,2 @@
 # kicad
-A repo of my kicd pcb projects
+A repo of my kicad pcb projects
